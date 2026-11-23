@@ -1,0 +1,12 @@
+# KYHS Auto Parts
+
+> Auto parts supplier site published at https://li651852596.github.io/.
+
+## Key pages
+
+- Home: https://li651852596.github.io/
+- Products: https://li651852596.github.io/products/
+- About: https://li651852596.github.io/about/
+- Contact: https://li651852596.github.io/contact/
+- Inquiry: https://li651852596.github.io/msg/
+- Sitemap: https://li651852596.github.io/sitemap.xml
