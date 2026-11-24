@@ -23,4 +23,17 @@
     g.src = 'https://www.googletagmanager.com/gtm.js?id=' + GTM_ID;
     document.head.appendChild(g);
   }
+
+  // ===== Google Analytics 4 (direct, www.kyhsexport.com) =====
+  var GA4_ID = 'G-L1TV7BMVQK';
+  if (GA4_ID) {
+    window.dataLayer = window.dataLayer || [];
+    window.gtag = window.gtag || function () { window.dataLayer.push(arguments); };
+    window.gtag('js', new Date());
+    window.gtag('config', GA4_ID);
+    var ga = document.createElement('script');
+    ga.async = true;
+    ga.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA4_ID;
+    document.head.appendChild(ga);
+  }
 })();
