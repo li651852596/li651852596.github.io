@@ -1,8 +1,7 @@
 (function () {
-  // Cloudflare Web Analytics token for parts.kyhsexport.com
-  // Replace the empty string below with the token from
-  // Cloudflare dashboard -> Web Analytics -> add site -> parts.kyhsexport.com
-  var CF_TOKEN = '';
+  // Cloudflare Web Analytics token (shared by both KYHS sites, by user's choice).
+  // Data for www.kyhsexport.com and parts.kyhsexport.com is combined in one view.
+  var CF_TOKEN = '13159866f1e04afe8edfc805a9be5c8e';
 
   if (!CF_TOKEN) {
     return;
