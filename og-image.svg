@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#0f1420"/>
+  <circle cx="980" cy="120" r="260" fill="#2f6fed" opacity="0.18"/>
+  <circle cx="180" cy="560" r="220" fill="#8a63d2" opacity="0.15"/>
+  <rect x="80" y="150" width="56" height="56" rx="16" fill="#2f6fed"/>
+  <text x="108" y="192" font-family="Arial,sans-serif" font-size="30" font-weight="bold" fill="#fff" text-anchor="middle">K</text>
+  <text x="156" y="190" font-family="Arial,sans-serif" font-size="40" font-weight="bold" fill="#fff">KYHS AI Hub</text>
+  <text x="80" y="310" font-family="Arial,sans-serif" font-size="76" font-weight="bold" fill="#fff">AI 工具导航</text>
+  <text x="80" y="400" font-family="Arial,sans-serif" font-size="76" font-weight="bold" fill="#7aa5ff">全球业务入口</text>
+  <text x="80" y="480" font-family="Arial,sans-serif" font-size="30" fill="#9aa8bd">精选 AI 工具 · 汽车配件 · 冰箱贴 · 美妆 · 外骨骼</text>
+</svg>
