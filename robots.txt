@@ -13,4 +13,4 @@ Allow: /
 User-agent: ClaudeBot
 Allow: /
 
-Sitemap: https://li651852596.github.io/sitemap.xml
+Sitemap: https://www.kyhsexport.com/sitemap.xml
