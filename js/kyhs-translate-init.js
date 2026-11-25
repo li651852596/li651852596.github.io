@@ -39,7 +39,7 @@
     '#kyhs-lang .kyhs-lang-item:hover{background:#f2f7fd;}',
     '#kyhs-lang .kyhs-lang-item.is-on{background:#e8f1fc;color:#123f73;font-weight:600;}',
     '#kyhs-lang .kyhs-lang-item small{color:#93a2b5;font-size:11px;}',
-    '@media(max-width:600px){#kyhs-lang{top:10px;right:10px;}#kyhs-lang .kyhs-lang-panel{width:min(300px,calc(100vw - 20px));}}'
+    '@media(max-width:600px){#kyhs-lang{top:auto;bottom:14px;right:12px;}#kyhs-lang .kyhs-lang-panel{top:auto;bottom:44px;width:min(300px,calc(100vw - 24px));}}'
   ].join('');
   document.head.appendChild(css);
 
