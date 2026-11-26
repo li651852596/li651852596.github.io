@@ -6,8 +6,188 @@
     <atom:link href="https://www.kyhsexport.com/ai-news/rss.xml" rel="self" type="application/rss+xml" />
     <description>聚合 22 个 AI 一手信息源（官方博客 / 研究机构 / 科技媒体）的最新动态，每日更新。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 25 Nov 2026 07:23:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 01:06:25 GMT</lastBuildDate>
     <generator>KYHS AI Hub</generator>
+    <item>
+      <title>Quoting Scott Aaronson</title>
+      <link>https://simonwillison.net/2026/Nov/25/scott-aaronson/</link>
+      <guid isPermaLink="false">795edc816940</guid>
+      <pubDate>Wed, 25 Nov 2026 23:26:32 GMT</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>研究与工程</category>
+      <description>It’s now obvious that we’ll be getting, not one-off solutions to this or that complexity question, but a whole new continent of mathematical truth, one that we’d previously only glimpsed through fog.</description>
+    </item>
+    <item>
+      <title>Ai2 and Google collaborate on a new generation of climate models</title>
+      <link>https://allenai.org/blog/google-climate-partnership</link>
+      <guid isPermaLink="false">351d6ecc8892</guid>
+      <pubDate>Wed, 25 Nov 2026 23:06:25 GMT</pubDate>
+      <dc:creator>Ai2 (Allen Institute for AI)</dc:creator>
+      <category>官方动态</category>
+      <description>With funding from Google.org and technical support from Google Research, Ai2 is developing NeuralGCM+, an…</description>
+    </item>
+    <item>
+      <title>ToyBlocks: A controlled world for robot learning and evaluation</title>
+      <link>https://allenai.org/blog/toyblocks</link>
+      <guid isPermaLink="false">a96de56669d5</guid>
+      <pubDate>Wed, 25 Nov 2026 23:06:25 GMT</pubDate>
+      <dc:creator>Ai2 (Allen Institute for AI)</dc:creator>
+      <category>官方动态</category>
+      <description>ToyBlocks is an open simulation framework for studying robot learning through automated task generation, training…</description>
+    </item>
+    <item>
+      <title>Ai2 and Taylor Geospatial partner to make geospatial AI easier to compare, run, and build on</title>
+      <link>https://allenai.org/blog/taylor-geospatial-partnership</link>
+      <guid isPermaLink="false">c87435f4344d</guid>
+      <pubDate>Wed, 25 Nov 2026 23:06:25 GMT</pubDate>
+      <dc:creator>Ai2 (Allen Institute for AI)</dc:creator>
+      <category>官方动态</category>
+      <description>Ai2 and Taylor Geospatial are partnering to make geospatial AI more accessible and useful for the public good…</description>
+    </item>
+    <item>
+      <title>Theorizer comes to Asta</title>
+      <link>https://allenai.org/blog/theorizer-in-asta</link>
+      <guid isPermaLink="false">b933a64b16c6</guid>
+      <pubDate>Wed, 25 Nov 2026 23:06:25 GMT</pubDate>
+      <dc:creator>Ai2 (Allen Institute for AI)</dc:creator>
+      <category>官方动态</category>
+      <description>Theorizer in Asta connects scientific literature to proposed explanations that researchers can examine and test.</description>
+    </item>
+    <item>
+      <title>S&amp;P considers Nvidia credit downgrade over governance and ‘key man’ risks</title>
+      <link>https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/</link>
+      <guid isPermaLink="false">c903026631f4</guid>
+      <pubDate>Wed, 25 Nov 2026 22:44:32 GMT</pubDate>
+      <dc:creator>TechCrunch AI</dc:creator>
+      <category>媒体资讯</category>
+      <description>The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.</description>
+    </item>
+    <item>
+      <title>Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future</title>
+      <link>https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent</link>
+      <guid isPermaLink="false">d2f001a688e5</guid>
+      <pubDate>Wed, 25 Nov 2026 21:51:26 GMT</pubDate>
+      <dc:creator>The Verge AI</dc:creator>
+      <category>媒体资讯</category>
+      <description>Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users.</description>
+    </item>
+    <item>
+      <title>OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work</title>
+      <link>https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/</link>
+      <guid isPermaLink="false">3c0524dc0d2c</guid>
+      <pubDate>Wed, 25 Nov 2026 20:03:27 GMT</pubDate>
+      <dc:creator>TechCrunch AI</dc:creator>
+      <category>媒体资讯</category>
+      <description>OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.</description>
+    </item>
+    <item>
+      <title>Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it</title>
+      <link>https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/</link>
+      <guid isPermaLink="false">48964b4caba9</guid>
+      <pubDate>Wed, 25 Nov 2026 19:54:57 GMT</pubDate>
+      <dc:creator>TechCrunch AI</dc:creator>
+      <category>媒体资讯</category>
+      <description>Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.</description>
+    </item>
+    <item>
+      <title>Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’</title>
+      <link>https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/</link>
+      <guid isPermaLink="false">40edb4e30fc5</guid>
+      <pubDate>Wed, 25 Nov 2026 19:44:24 GMT</pubDate>
+      <dc:creator>TechCrunch AI</dc:creator>
+      <category>媒体资讯</category>
+      <description>Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.</description>
+    </item>
+    <item>
+      <title>Want to buy your kid an AI toy this Christmas? Not in New York</title>
+      <link>https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/</link>
+      <guid isPermaLink="false">dbd8eb76096b</guid>
+      <pubDate>Wed, 25 Nov 2026 18:11:46 GMT</pubDate>
+      <dc:creator>TechCrunch AI</dc:creator>
+      <category>媒体资讯</category>
+      <description>New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.</description>
+    </item>
+    <item>
+      <title>FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space</title>
+      <link>https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers</link>
+      <guid isPermaLink="false">c9bafa51cdfc</guid>
+      <pubDate>Wed, 25 Nov 2026 17:44:57 GMT</pubDate>
+      <dc:creator>The Verge AI</dc:creator>
+      <category>媒体资讯</category>
+      <description>In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's &quot;Starmind&quot; initiative.</description>
+    </item>
+    <item>
+      <title>Character.AI’s plan to auction off users’ private chats challenged by state AGs</title>
+      <link>https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/</link>
+      <guid isPermaLink="false">1f6dea72b3eb</guid>
+      <pubDate>Wed, 25 Nov 2026 17:35:58 GMT</pubDate>
+      <dc:creator>TechCrunch AI</dc:creator>
+      <category>媒体资讯</category>
+      <description>The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.</description>
+    </item>
+    <item>
+      <title>Nothing offers a full look at its AI earbuds and charging case</title>
+      <link>https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal</link>
+      <guid isPermaLink="false">e49cf84fc779</guid>
+      <pubDate>Wed, 25 Nov 2026 16:00:59 GMT</pubDate>
+      <dc:creator>The Verge AI</dc:creator>
+      <category>媒体资讯</category>
+      <description>Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations.</description>
+    </item>
+    <item>
+      <title>AI data centers are becoming harder to build, and neoclouds are feeling it</title>
+      <link>https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/</link>
+      <guid isPermaLink="false">958635776149</guid>
+      <pubDate>Wed, 25 Nov 2026 15:41:43 GMT</pubDate>
+      <dc:creator>TechCrunch AI</dc:creator>
+      <category>媒体资讯</category>
+      <description>⁠Nvidia has made clear⁠ it won&amp;#8217;t backstop an AI data center until it&amp;#8217;s nearly ready to run, and that&amp;#8217;s landing just as neoclouds report construction delays and more expensive debt.</description>
+    </item>
+    <item>
+      <title>How to choose the next safe step in application modernization</title>
+      <link>https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/</link>
+      <guid isPermaLink="false">3860437b18f3</guid>
+      <pubDate>Wed, 25 Nov 2026 15:00:00 GMT</pubDate>
+      <dc:creator>GitHub AI &amp; ML</dc:creator>
+      <category>研究与工程</category>
+      <description>Learn how to assess a legacy application, choose a bounded modernization step, and reuse the method with a GitHub Copilot agent skill. The post How to choose the next safe step in application modernization appeared first on The GitHub Blog…</description>
+    </item>
+    <item>
+      <title>Amazon is reportedly in talks to end Muse AI shopping block</title>
+      <link>https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions</link>
+      <guid isPermaLink="false">0aa7428b8371</guid>
+      <pubDate>Wed, 25 Nov 2026 14:12:33 GMT</pubDate>
+      <dc:creator>The Verge AI</dc:creator>
+      <category>媒体资讯</category>
+      <description>Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent re…</description>
+    </item>
+    <item>
+      <title>Amazon and Meta reportedly in talks to lift blockade on AI agent Muse</title>
+      <link>https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/</link>
+      <guid isPermaLink="false">8cf14ead9524</guid>
+      <pubDate>Wed, 25 Nov 2026 14:10:18 GMT</pubDate>
+      <dc:creator>TechCrunch AI</dc:creator>
+      <category>媒体资讯</category>
+      <description>Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.</description>
+    </item>
+    <item>
+      <title>The questions Jensen Huang and Nvidia will still have to answer about Megaspeed</title>
+      <link>https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/</link>
+      <guid isPermaLink="false">6ceca08c8b8f</guid>
+      <pubDate>Wed, 25 Nov 2026 13:00:00 GMT</pubDate>
+      <dc:creator>TechCrunch AI</dc:creator>
+      <category>媒体资讯</category>
+      <description>The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances.</description>
+    </item>
+    <item>
+      <title>AI is straining America’s open records systems</title>
+      <link>https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/</link>
+      <guid isPermaLink="false">0c7af31fc576</guid>
+      <pubDate>Wed, 25 Nov 2026 10:00:00 GMT</pubDate>
+      <dc:creator>MIT Technology Review</dc:creator>
+      <category>媒体资讯</category>
+      <description>In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer.</description>
+    </item>
     <item>
       <title>ByteDance Researchers Open-Sources Laminar, an Async Reinforcement Learning RL Post-Training Framework</title>
       <link>https://www.marktechpost.com/2026/11/24/bytedance-seed-laminar-async-rl-post-training-framework/</link>
@@ -18,42 +198,6 @@
       <description>Laminar is an open-source asynchronous RL post-training framework from HKU and ByteDance Seed researchers. It decouples rollout, training and weight sync, and lifted Qwen3-Coder-30B-A3B to 52.2% on SWE-bench Verified.</description>
     </item>
     <item>
-      <title>Ai2 and Google collaborate on a new generation of climate models</title>
-      <link>https://allenai.org/blog/google-climate-partnership</link>
-      <guid isPermaLink="false">351d6ecc8892</guid>
-      <pubDate>Wed, 25 Nov 2026 05:23:31 GMT</pubDate>
-      <dc:creator>Ai2 (Allen Institute for AI)</dc:creator>
-      <category>官方动态</category>
-      <description>With funding from Google.org and technical support from Google Research, Ai2 is developing NeuralGCM+, an…</description>
-    </item>
-    <item>
-      <title>ToyBlocks: A controlled world for robot learning and evaluation</title>
-      <link>https://allenai.org/blog/toyblocks</link>
-      <guid isPermaLink="false">a96de56669d5</guid>
-      <pubDate>Wed, 25 Nov 2026 05:23:31 GMT</pubDate>
-      <dc:creator>Ai2 (Allen Institute for AI)</dc:creator>
-      <category>官方动态</category>
-      <description>ToyBlocks is an open simulation framework for studying robot learning through automated task generation, training…</description>
-    </item>
-    <item>
-      <title>Ai2 and Taylor Geospatial partner to make geospatial AI easier to compare, run, and build on</title>
-      <link>https://allenai.org/blog/taylor-geospatial-partnership</link>
-      <guid isPermaLink="false">c87435f4344d</guid>
-      <pubDate>Wed, 25 Nov 2026 05:23:31 GMT</pubDate>
-      <dc:creator>Ai2 (Allen Institute for AI)</dc:creator>
-      <category>官方动态</category>
-      <description>Ai2 and Taylor Geospatial are partnering to make geospatial AI more accessible and useful for the public good…</description>
-    </item>
-    <item>
-      <title>Theorizer comes to Asta</title>
-      <link>https://allenai.org/blog/theorizer-in-asta</link>
-      <guid isPermaLink="false">b933a64b16c6</guid>
-      <pubDate>Wed, 25 Nov 2026 05:23:31 GMT</pubDate>
-      <dc:creator>Ai2 (Allen Institute for AI)</dc:creator>
-      <category>官方动态</category>
-      <description>Theorizer in Asta connects scientific literature to proposed explanations that researchers can examine and test.</description>
-    </item>
-    <item>
       <title>Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion</title>
       <link>https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/</link>
       <guid isPermaLink="false">7d238ac53ee8</guid>
@@ -61,6 +205,15 @@
       <dc:creator>TechCrunch AI</dc:creator>
       <category>媒体资讯</category>
       <description>Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to &quot;historic&quot; personal liability from a grow…</description>
+    </item>
+    <item>
+      <title>OpenAI solves matrix math 🔢, SWE-2.1 💻, swarm limitations 🐝</title>
+      <link>https://tldr.tech/ai/2026-11-25</link>
+      <guid isPermaLink="false">803c9ec3df38</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+      <dc:creator>TLDR AI</dc:creator>
+      <category>媒体资讯</category>
+      <description>OpenAI solves matrix math 🔢, SWE-2.1 💻, swarm limitations 🐝</description>
     </item>
     <item>
       <title>Meet Facebook’s Your Algorithm: How Meta Turns Plain-Language Preferences Into Ranking</title>
@@ -97,15 +250,6 @@
       <dc:creator>TechCrunch AI</dc:creator>
       <category>媒体资讯</category>
       <description>The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.</description>
-    </item>
-    <item>
-      <title>Nvidia CEO Jensen Huang is back. What happens next?</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang</link>
-      <guid isPermaLink="false">465e0c90e6a1</guid>
-      <pubDate>Tue, 24 Nov 2026 21:41:37 GMT</pubDate>
-      <dc:creator>The Verge AI</dc:creator>
-      <category>媒体资讯</category>
-      <description>After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation.</description>
     </item>
     <item>
       <title>Even the best AI agents struggle with everyday life</title>
@@ -234,15 +378,6 @@
       <description>Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.</description>
     </item>
     <item>
-      <title>Pinterest will now let parents limit the AI-generated content their teens see</title>
-      <link>https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/</link>
-      <guid isPermaLink="false">446876774a47</guid>
-      <pubDate>Tue, 24 Nov 2026 16:02:37 GMT</pubDate>
-      <dc:creator>TechCrunch AI</dc:creator>
-      <category>媒体资讯</category>
-      <description>While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.</description>
-    </item>
-    <item>
       <title>How Gemini is changing the game for Golden State's organization and fans.</title>
       <link>https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/</link>
       <guid isPermaLink="false">cd726388c179</guid>
@@ -252,22 +387,13 @@
       <description>How Gemini is changing the game for Golden State's organization and fans.</description>
     </item>
     <item>
-      <title>Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia</title>
-      <link>https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/</link>
-      <guid isPermaLink="false">3891be95c023</guid>
-      <pubDate>Tue, 24 Nov 2026 15:51:07 GMT</pubDate>
-      <dc:creator>TechCrunch AI</dc:creator>
+      <title>Has vibe coding made open source the new normal for synths?</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware</link>
+      <guid isPermaLink="false">7ffcdad38c46</guid>
+      <pubDate>Tue, 24 Nov 2026 15:35:01 GMT</pubDate>
+      <dc:creator>The Verge AI</dc:creator>
       <category>媒体资讯</category>
-      <description>Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.</description>
-    </item>
-    <item>
-      <title>Raising the stakes for enterprise networks with AI modernization</title>
-      <link>https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/</link>
-      <guid isPermaLink="false">734bea6ba16f</guid>
-      <pubDate>Tue, 24 Nov 2026 15:15:16 GMT</pubDate>
-      <dc:creator>MIT Technology Review</dc:creator>
-      <category>媒体资讯</category>
-      <description>Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load.</description>
+      <description>The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond.</description>
     </item>
     <item>
       <title>OpenAI and Cisco Releases Shirudo: An Open-Source Linux Runtime Allowing Agents to Defend Systems Without Downtime</title>
@@ -277,6 +403,15 @@
       <dc:creator>MarkTechPost</dc:creator>
       <category>媒体资讯</category>
       <description>OpenAI and Cisco released Shirudo, a pre-release, BSD-licensed eBPF runtime for Linux. AI agents write signed &quot;shields&quot; that block exploit paths on running systems while teams test and roll out real patches.</description>
+    </item>
+    <item>
+      <title>From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity</title>
+      <link>https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/</link>
+      <guid isPermaLink="false">d579d642845d</guid>
+      <pubDate>Tue, 24 Nov 2026 13:07:53 GMT</pubDate>
+      <dc:creator>Google DeepMind</dc:creator>
+      <category>官方动态</category>
+      <description>Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.</description>
     </item>
     <item>
       <title>GPT-6 models demonstrate intrinsic protein-design capabilities</title>
@@ -378,51 +513,6 @@
       <description>GLM-5.4: Toward Generalized Coding with Our First Loop Transformer GLM 5.4 is now available from Chinese AI lab Z.ai. It's their first model to use a looped transformer architecture, which they describe like this: In a standard Transformer,…</description>
     </item>
     <item>
-      <title>Trump engineered a risky comeback for Jensen Huang</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated</link>
-      <guid isPermaLink="false">a737da5d042c</guid>
-      <pubDate>Mon, 23 Nov 2026 22:34:20 GMT</pubDate>
-      <dc:creator>The Verge AI</dc:creator>
-      <category>媒体资讯</category>
-      <description>After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A.</description>
-    </item>
-    <item>
-      <title>Welcome to elite impunity, Jensen Huang</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang</link>
-      <guid isPermaLink="false">2baf91eba15b</guid>
-      <pubDate>Mon, 23 Nov 2026 22:21:36 GMT</pubDate>
-      <dc:creator>The Verge AI</dc:creator>
-      <category>媒体资讯</category>
-      <description>I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened.</description>
-    </item>
-    <item>
-      <title>Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes</title>
-      <link>https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/</link>
-      <guid isPermaLink="false">af90cb5860e8</guid>
-      <pubDate>Mon, 23 Nov 2026 22:05:50 GMT</pubDate>
-      <dc:creator>TechCrunch AI</dc:creator>
-      <category>媒体资讯</category>
-      <description>As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.</description>
-    </item>
-    <item>
-      <title>Supertake raises $20M to let AI agents turn your market predictions into stock portfolios</title>
-      <link>https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/</link>
-      <guid isPermaLink="false">a841b6390231</guid>
-      <pubDate>Mon, 23 Nov 2026 22:02:05 GMT</pubDate>
-      <dc:creator>TechCrunch AI</dc:creator>
-      <category>媒体资讯</category>
-      <description>Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.</description>
-    </item>
-    <item>
-      <title>Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal</title>
-      <link>https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/</link>
-      <guid isPermaLink="false">cc164f12ef4f</guid>
-      <pubDate>Mon, 23 Nov 2026 21:47:41 GMT</pubDate>
-      <dc:creator>TechCrunch AI</dc:creator>
-      <category>媒体资讯</category>
-      <description>&quot;The mistake has been corrected,&quot; Elon Musk chimed in.</description>
-    </item>
-    <item>
       <title>Ladybird's first alpha release</title>
       <link>https://simonwillison.net/2026/Nov/23/ladybird/</link>
       <guid isPermaLink="false">05265623ba0d</guid>
@@ -430,15 +520,6 @@
       <dc:creator>Simon Willison</dc:creator>
       <category>研究与工程</category>
       <description>Ladybird is an astonishingly ambitious project: a new browser, in 2026, with its own implementation of most of the key components - HTML parsing, CSS engine, layout, JavaScript, even WebAssembly.</description>
-    </item>
-    <item>
-      <title>Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist</title>
-      <link>https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/</link>
-      <guid isPermaLink="false">6cdee722b3ca</guid>
-      <pubDate>Mon, 23 Nov 2026 21:25:42 GMT</pubDate>
-      <dc:creator>TechCrunch AI</dc:creator>
-      <category>媒体资讯</category>
-      <description>Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.</description>
     </item>
     <item>
       <title>OpenAI and Cisco introduce Shirudo</title>
@@ -450,33 +531,6 @@
       <description>OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.</description>
     </item>
     <item>
-      <title>AI data centers throw another wrench into chaotic UN climate talks</title>
-      <link>https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit</link>
-      <guid isPermaLink="false">c7daa5eb06b6</guid>
-      <pubDate>Mon, 23 Nov 2026 21:09:37 GMT</pubDate>
-      <dc:creator>The Verge AI</dc:creator>
-      <category>媒体资讯</category>
-      <description>The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference,…</description>
-    </item>
-    <item>
-      <title>Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ</title>
-      <link>https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/</link>
-      <guid isPermaLink="false">4b56986cf186</guid>
-      <pubDate>Mon, 23 Nov 2026 20:38:53 GMT</pubDate>
-      <dc:creator>TechCrunch AI</dc:creator>
-      <category>媒体资讯</category>
-      <description>&quot;I'm going to be a better CEO the second time around,&quot; Huang told employees.</description>
-    </item>
-    <item>
-      <title>Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses</title>
-      <link>https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/</link>
-      <guid isPermaLink="false">6713d70e96ac</guid>
-      <pubDate>Mon, 23 Nov 2026 19:14:46 GMT</pubDate>
-      <dc:creator>TechCrunch AI</dc:creator>
-      <category>媒体资讯</category>
-      <description>By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem</description>
-    </item>
-    <item>
       <title>Z AI Releases GLM-5.4: A 750B Loop Transformer That Runs 28 Layers Twice</title>
       <link>https://www.marktechpost.com/2026/11/23/zai-glm-5-4-loop-transformer/</link>
       <guid isPermaLink="false">7d3c8bb1efdb</guid>
@@ -486,15 +540,6 @@
       <description>Z.ai released GLM-5.4, its first Loop Transformer flagship. The 750B-scale model runs 28 GLM-5 layers twice for deeper reasoning, with API access and open weights planned after safety work.</description>
     </item>
     <item>
-      <title>Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO</title>
-      <link>https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/</link>
-      <guid isPermaLink="false">f0bac6d6f32f</guid>
-      <pubDate>Mon, 23 Nov 2026 18:12:22 GMT</pubDate>
-      <dc:creator>TechCrunch AI</dc:creator>
-      <category>媒体资讯</category>
-      <description>The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.</description>
-    </item>
-    <item>
       <title>A legendary philosopher isn’t buying Anthropic’s consciousness argument</title>
       <link>https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/</link>
       <guid isPermaLink="false">ac303e1991c9</guid>
@@ -502,15 +547,6 @@
       <dc:creator>MIT Technology Review</dc:creator>
       <category>媒体资讯</category>
       <description>This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient…</description>
-    </item>
-    <item>
-      <title>Claude AI can review pull requests and ship fixes on its own now</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests</link>
-      <guid isPermaLink="false">1c1896a7549c</guid>
-      <pubDate>Mon, 23 Nov 2026 17:10:02 GMT</pubDate>
-      <dc:creator>The Verge AI</dc:creator>
-      <category>媒体资讯</category>
-      <description>Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests.</description>
     </item>
     <item>
       <title>A more tailored Google Search that’s uniquely yours</title>
@@ -871,42 +907,6 @@
       <dc:creator>AWS Machine Learning</dc:creator>
       <category>研究与工程</category>
       <description>Amazon Bedrock AgentCore harness now runs on the open-source Strands harness, bringing a recommended model, task-oriented defaults, automatic prompt caching, proactive context management, and new built-in tools.</description>
-    </item>
-    <item>
-      <title>Amazon Polly launches voice cloning: A unique voice for your brand</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/amazon-polly-launches-voice-cloning-a-unique-voice-for-your-brand/</link>
-      <guid isPermaLink="false">2cf4c5ab2479</guid>
-      <pubDate>Thu, 19 Nov 2026 19:53:32 GMT</pubDate>
-      <dc:creator>AWS Machine Learning</dc:creator>
-      <category>研究与工程</category>
-      <description>Voice cloning in Amazon Polly is now generally available. Give Amazon Polly a few minutes of recordings from a consenting speaker, and it builds a custom voice that reads new text in that speaker's voice.</description>
-    </item>
-    <item>
-      <title>Optimize AI economics on Amazon Bedrock with Accenture’s sequenced approach</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/optimize-ai-economics-on-amazon-bedrock-with-accentures-sequenced-approach/</link>
-      <guid isPermaLink="false">914a5372ee43</guid>
-      <pubDate>Thu, 19 Nov 2026 18:48:55 GMT</pubDate>
-      <dc:creator>AWS Machine Learning</dc:creator>
-      <category>研究与工程</category>
-      <description>As enterprises scale AI on Amazon Bedrock, token spend can grow even as per-token prices fall. This post walks through six composable optimization levers, shows how Accenture applied them across four client engagements, and recommends a seq…</description>
-    </item>
-    <item>
-      <title>From learning to leaderboard: How Cisco upskilled 1,200 engineers in agentic AI with AWS AI League</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/from-learning-to-leaderboard-how-cisco-upskilled-1200-engineers-in-agentic-ai-with-aws-ai-league/</link>
-      <guid isPermaLink="false">f98e40b0a861</guid>
-      <pubDate>Thu, 19 Nov 2026 18:26:22 GMT</pubDate>
-      <dc:creator>AWS Machine Learning</dc:creator>
-      <category>研究与工程</category>
-      <description>Cisco and AWS used Cisco Transformation Fest and AWS AI League to turn hands-on AI learning into a culture of building. A Cisco engineer won the 2025 AWS AI League global title and 1,200 engineers competed in 2026.</description>
-    </item>
-    <item>
-      <title>Introducing Tool Retrieval in the Gemini API</title>
-      <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/</link>
-      <guid isPermaLink="false">6579f9b6ac56</guid>
-      <pubDate>Thu, 19 Nov 2026 18:00:00 GMT</pubDate>
-      <dc:creator>Google AI</dc:creator>
-      <category>官方动态</category>
-      <description>Introducing Tool Retrieval in the Gemini API</description>
     </item>
   </channel>
 </rss>
