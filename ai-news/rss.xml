@@ -6,22 +6,13 @@
     <atom:link href="https://www.kyhsexport.com/ai-news/rss.xml" rel="self" type="application/rss+xml" />
     <description>聚合 22 个 AI 一手信息源（官方博客 / 研究机构 / 科技媒体）的最新动态，每日更新。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 26 Nov 2026 01:06:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 01:12:46 GMT</lastBuildDate>
     <generator>KYHS AI Hub</generator>
-    <item>
-      <title>Quoting Scott Aaronson</title>
-      <link>https://simonwillison.net/2026/Nov/25/scott-aaronson/</link>
-      <guid isPermaLink="false">795edc816940</guid>
-      <pubDate>Wed, 25 Nov 2026 23:26:32 GMT</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>研究与工程</category>
-      <description>It’s now obvious that we’ll be getting, not one-off solutions to this or that complexity question, but a whole new continent of mathematical truth, one that we’d previously only glimpsed through fog.</description>
-    </item>
     <item>
       <title>Ai2 and Google collaborate on a new generation of climate models</title>
       <link>https://allenai.org/blog/google-climate-partnership</link>
       <guid isPermaLink="false">351d6ecc8892</guid>
-      <pubDate>Wed, 25 Nov 2026 23:06:25 GMT</pubDate>
+      <pubDate>Thu, 26 Nov 2026 23:12:46 GMT</pubDate>
       <dc:creator>Ai2 (Allen Institute for AI)</dc:creator>
       <category>官方动态</category>
       <description>With funding from Google.org and technical support from Google Research, Ai2 is developing NeuralGCM+, an…</description>
@@ -30,7 +21,7 @@
       <title>ToyBlocks: A controlled world for robot learning and evaluation</title>
       <link>https://allenai.org/blog/toyblocks</link>
       <guid isPermaLink="false">a96de56669d5</guid>
-      <pubDate>Wed, 25 Nov 2026 23:06:25 GMT</pubDate>
+      <pubDate>Thu, 26 Nov 2026 23:12:46 GMT</pubDate>
       <dc:creator>Ai2 (Allen Institute for AI)</dc:creator>
       <category>官方动态</category>
       <description>ToyBlocks is an open simulation framework for studying robot learning through automated task generation, training…</description>
@@ -39,7 +30,7 @@
       <title>Ai2 and Taylor Geospatial partner to make geospatial AI easier to compare, run, and build on</title>
       <link>https://allenai.org/blog/taylor-geospatial-partnership</link>
       <guid isPermaLink="false">c87435f4344d</guid>
-      <pubDate>Wed, 25 Nov 2026 23:06:25 GMT</pubDate>
+      <pubDate>Thu, 26 Nov 2026 23:12:46 GMT</pubDate>
       <dc:creator>Ai2 (Allen Institute for AI)</dc:creator>
       <category>官方动态</category>
       <description>Ai2 and Taylor Geospatial are partnering to make geospatial AI more accessible and useful for the public good…</description>
@@ -48,10 +39,100 @@
       <title>Theorizer comes to Asta</title>
       <link>https://allenai.org/blog/theorizer-in-asta</link>
       <guid isPermaLink="false">b933a64b16c6</guid>
-      <pubDate>Wed, 25 Nov 2026 23:06:25 GMT</pubDate>
+      <pubDate>Thu, 26 Nov 2026 23:12:46 GMT</pubDate>
       <dc:creator>Ai2 (Allen Institute for AI)</dc:creator>
       <category>官方动态</category>
       <description>Theorizer in Asta connects scientific literature to proposed explanations that researchers can examine and test.</description>
+    </item>
+    <item>
+      <title>Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano</title>
+      <link>https://www.marktechpost.com/2026/11/26/sakana-ai-namazu-small-30b-nemotron-3-nano/</link>
+      <guid isPermaLink="false">d9669e7c7989</guid>
+      <pubDate>Thu, 26 Nov 2026 22:06:40 GMT</pubDate>
+      <dc:creator>MarkTechPost</dc:creator>
+      <category>媒体资讯</category>
+      <description>Sakana AI released Sakana Namazu Small, a 30B-A3B reasoning model built on NVIDIA Nemotron 3 Nano. It averages 60.1 across 25 benchmarks, ahead of the 120B Nemotron 3 Super at 56.2.</description>
+    </item>
+    <item>
+      <title>Nvidia hits pause on chip shipments to Southeast Asia</title>
+      <link>https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/</link>
+      <guid isPermaLink="false">f854a7c360a8</guid>
+      <pubDate>Thu, 26 Nov 2026 20:03:54 GMT</pubDate>
+      <dc:creator>TechCrunch AI</dc:creator>
+      <category>媒体资讯</category>
+      <description>Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.</description>
+    </item>
+    <item>
+      <title>Grand Theft Auto VI proves why efficiency isn’t a virtue</title>
+      <link>https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/</link>
+      <guid isPermaLink="false">2befc382e1c9</guid>
+      <pubDate>Thu, 26 Nov 2026 16:00:00 GMT</pubDate>
+      <dc:creator>TechCrunch AI</dc:creator>
+      <category>媒体资讯</category>
+      <description>On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.</description>
+    </item>
+    <item>
+      <title>Quoting Jack Despain Zhou</title>
+      <link>https://simonwillison.net/2026/Nov/26/jack-despain-zhou/</link>
+      <guid isPermaLink="false">4be442228dab</guid>
+      <pubDate>Thu, 26 Nov 2026 15:09:31 GMT</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>研究与工程</category>
+      <description>Among the many already existing effects of AI has been a great de-individualization. I open a YouTube video, and I hear Claude. I sit in a conference presentation, and I hear Claude.</description>
+    </item>
+    <item>
+      <title>Jensen Huang deepfakes are the hot new AI slop</title>
+      <link>https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes</link>
+      <guid isPermaLink="false">5691a02d68d9</guid>
+      <pubDate>Thu, 26 Nov 2026 12:29:18 GMT</pubDate>
+      <dc:creator>The Verge AI</dc:creator>
+      <category>媒体资讯</category>
+      <description>Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket.</description>
+    </item>
+    <item>
+      <title>42 state AGs are trying to stop Character.AI from selling users’ chats</title>
+      <link>https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats</link>
+      <guid isPermaLink="false">53f76814357b</guid>
+      <pubDate>Thu, 26 Nov 2026 09:54:40 GMT</pubDate>
+      <dc:creator>The Verge AI</dc:creator>
+      <category>媒体资讯</category>
+      <description>A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings.</description>
+    </item>
+    <item>
+      <title>sqlite3_rsync: Database Remote-Copy Tool For SQLite</title>
+      <link>https://simonwillison.net/2026/Nov/26/sqlite3-rsync/</link>
+      <guid isPermaLink="false">d42cc47c7f08</guid>
+      <pubDate>Thu, 26 Nov 2026 06:08:25 GMT</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>研究与工程</category>
+      <description>sqlite3_rsync: Database Remote-Copy Tool For SQLite This additional SQLite tool has been around for a while now - it was added as &quot;experimental&quot; in SQLite 3.47.0 in October 2024 and enhanced in SQLite 3.50.0 in May 2025 .</description>
+    </item>
+    <item>
+      <title>The New York Times warns photographers not to update Photoshop over AI features</title>
+      <link>https://simonwillison.net/2026/Nov/26/hn-50651685/</link>
+      <guid isPermaLink="false">e50f85b36369</guid>
+      <pubDate>Thu, 26 Nov 2026 05:08:46 GMT</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>研究与工程</category>
+      <description>My comment on The New York Times warns photographers not to update Photoshop over AI features — Hacker News. I had a NYT photographer take my picture at my home earlier this year (for a story about Moltbook, oddly enough).</description>
+    </item>
+    <item>
+      <title>Opus 5.6 testing 🤖, OpenAI private Inference 🔒, Jev is probably Qwen 📝</title>
+      <link>https://tldr.tech/ai/2026-11-26</link>
+      <guid isPermaLink="false">75b6ff3b575c</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+      <dc:creator>TLDR AI</dc:creator>
+      <category>媒体资讯</category>
+      <description>Opus 5.6 testing 🤖, OpenAI private Inference 🔒, Jev is probably Qwen 📝</description>
+    </item>
+    <item>
+      <title>Quoting Scott Aaronson</title>
+      <link>https://simonwillison.net/2026/Nov/25/scott-aaronson/</link>
+      <guid isPermaLink="false">795edc816940</guid>
+      <pubDate>Wed, 25 Nov 2026 23:26:32 GMT</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>研究与工程</category>
+      <description>It’s now obvious that we’ll be getting, not one-off solutions to this or that complexity question, but a whole new continent of mathematical truth, one that we’d previously only glimpsed through fog.</description>
     </item>
     <item>
       <title>S&amp;P considers Nvidia credit downgrade over governance and ‘key man’ risks</title>
@@ -97,6 +178,15 @@
       <dc:creator>TechCrunch AI</dc:creator>
       <category>媒体资讯</category>
       <description>Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.</description>
+    </item>
+    <item>
+      <title>datasette-charts 0.3a0</title>
+      <link>https://simonwillison.net/2026/Nov/25/datasette-charts/</link>
+      <guid isPermaLink="false">4a1e108ec1a1</guid>
+      <pubDate>Wed, 25 Nov 2026 18:16:50 GMT</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>研究与工程</category>
+      <description>Release: datasette-charts 0.3a0 I added chart annotations to datasette-charts ! You can now render a chart and then annotate it with lines, shaded areas, labels, or a combination of the three.</description>
     </item>
     <item>
       <title>Want to buy your kid an AI toy this Christmas? Not in New York</title>
@@ -342,42 +432,6 @@
       <description>GPT 6.2 Astra Solves a Historical Mystery Here's an interesting case-study in using GPT-6.2 Astra for historical research, from history professor Mark Humphries: With only minimal prompting, GPT-6.2 Astra was able to autonomously identify t…</description>
     </item>
     <item>
-      <title>The New York Times warns photographers not to update Photoshop over AI features</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features</link>
-      <guid isPermaLink="false">f057254652f9</guid>
-      <pubDate>Tue, 24 Nov 2026 16:52:41 GMT</pubDate>
-      <dc:creator>The Verge AI</dc:creator>
-      <category>媒体资讯</category>
-      <description>The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI &quot;in ways that may not be apparent to users.&quot; In an email seen by The Verge and posted on Thread…</description>
-    </item>
-    <item>
-      <title>Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming</title>
-      <link>https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/</link>
-      <guid isPermaLink="false">f9536c4b6b10</guid>
-      <pubDate>Tue, 24 Nov 2026 16:46:00 GMT</pubDate>
-      <dc:creator>TechCrunch AI</dc:creator>
-      <category>媒体资讯</category>
-      <description>The company said it will still accept songs that were made with AI assistance, but not fully generated.</description>
-    </item>
-    <item>
-      <title>Jensen Huang deepfakes are the hot new AI slop</title>
-      <link>https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes</link>
-      <guid isPermaLink="false">5691a02d68d9</guid>
-      <pubDate>Tue, 24 Nov 2026 16:18:12 GMT</pubDate>
-      <dc:creator>The Verge AI</dc:creator>
-      <category>媒体资讯</category>
-      <description>Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket.</description>
-    </item>
-    <item>
-      <title>Why a Crusoe investor is betting on solar and batteries to power future AI data centers</title>
-      <link>https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/</link>
-      <guid isPermaLink="false">1ee672463ccf</guid>
-      <pubDate>Tue, 24 Nov 2026 16:10:00 GMT</pubDate>
-      <dc:creator>TechCrunch AI</dc:creator>
-      <category>媒体资讯</category>
-      <description>Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.</description>
-    </item>
-    <item>
       <title>How Gemini is changing the game for Golden State's organization and fans.</title>
       <link>https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/</link>
       <guid isPermaLink="false">cd726388c179</guid>
@@ -430,6 +484,15 @@
       <dc:creator>OpenAI</dc:creator>
       <category>官方动态</category>
       <description>See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.</description>
+    </item>
+    <item>
+      <title>datasette-charts 0.2a1</title>
+      <link>https://simonwillison.net/2026/Nov/24/datasette-charts-2/</link>
+      <guid isPermaLink="false">b2e59de5026a</guid>
+      <pubDate>Tue, 24 Nov 2026 06:07:19 GMT</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>研究与工程</category>
+      <description>Release: datasette-charts 0.2a1 Minor UI improvements: Collapsing the suggested charts section now leaves the chart visible. Following a link to a chart opens it with the suggestions collapsed for that visit.</description>
     </item>
     <item>
       <title>Introducing the Amazon Bedrock Trusted Access API, with Enterprise Frontier Safeguards and Enterprise Data Controls for Claude models</title>
@@ -648,15 +711,6 @@
       <description>NVIDIA released Alpamayo 2 Edge, a 2B-class reasoning vision-language-action model that plans driving trajectories and explains them on DRIVE AGX Thor, at 160 to 190 ms pixel-to-trajectory latency.</description>
     </item>
     <item>
-      <title>Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost</title>
-      <link>https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/</link>
-      <guid isPermaLink="false">fa8296f0c8bb</guid>
-      <pubDate>Sun, 22 Nov 2026 10:36:17 GMT</pubDate>
-      <dc:creator>MarkTechPost</dc:creator>
-      <category>媒体资讯</category>
-      <description>Hermes Agent, OpenClaw, Gemini Spark, OpenAI dots, Meta Muse and Perplexity Personal Computer ranked on memory, security defaults and real cost. The post Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compar…</description>
-    </item>
-    <item>
       <title>Meta ads is now available in AWS Quick</title>
       <link>https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/</link>
       <guid isPermaLink="false">2cb33eeb6f7e</guid>
@@ -853,60 +907,6 @@
       <dc:creator>AWS Machine Learning</dc:creator>
       <category>研究与工程</category>
       <description>Amazon Bedrock AgentCore payments now supports AWS Marketplace, so agents can discover and buy x402-enabled products, APIs, data, and content and pay in USD on the developer's AWS bill, with no stablecoin wallets or API keys.</description>
-    </item>
-    <item>
-      <title>How the BMW Group governs hundreds of agents across thousands of developers</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/how-the-bmw-group-governs-hundreds-of-agents-across-thousands-of-developers/</link>
-      <guid isPermaLink="false">c4229ac980e4</guid>
-      <pubDate>Thu, 19 Nov 2026 22:20:23 GMT</pubDate>
-      <dc:creator>AWS Machine Learning</dc:creator>
-      <category>研究与工程</category>
-      <description>When hundreds of agents serve thousands of developers, governance cannot be an afterthought. The BMW Group shares the practices and patterns its R&amp;D teams use to build, govern, and operate AI agents at enterprise scale without sacrificing s…</description>
-    </item>
-    <item>
-      <title>Run your whole selling business in AWS Quick</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/run-your-whole-selling-business-in-aws-quick/</link>
-      <guid isPermaLink="false">ad7f6e346770</guid>
-      <pubDate>Thu, 19 Nov 2026 22:16:22 GMT</pubDate>
-      <dc:creator>AWS Machine Learning</dc:creator>
-      <category>研究与工程</category>
-      <description>Most sellers do not need another AI product to learn. They need the tools and information they already use brought together, so they can see what is happening in their business and act on it.</description>
-    </item>
-    <item>
-      <title>Amazon SageMaker AI now detects latency drift, idle GPUs, and missed optimizations on your inference endpoints</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-detects-latency-drift-idle-gpus-and-missed-optimizations-on-your-inference-endpoints/</link>
-      <guid isPermaLink="false">a9d8b43ad64c</guid>
-      <pubDate>Thu, 19 Nov 2026 21:28:18 GMT</pubDate>
-      <dc:creator>AWS Machine Learning</dc:creator>
-      <category>研究与工程</category>
-      <description>Amazon SageMaker AI now monitors your generative AI inference endpoints by default and tells you when a change could improve performance or lower cost.</description>
-    </item>
-    <item>
-      <title>Inside Amazon Connect Talent: The science of structured AI interviews</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/inside-amazon-connect-talent-the-science-of-structured-ai-interviews/</link>
-      <guid isPermaLink="false">ab17b2e8a8c3</guid>
-      <pubDate>Thu, 19 Nov 2026 21:23:20 GMT</pubDate>
-      <dc:creator>AWS Machine Learning</dc:creator>
-      <category>研究与工程</category>
-      <description>For organizations hiring hundreds or thousands of people, every interview presents the same challenge: How do you give candidates a consistent opportunity to demonstrate their skills while gathering the evidence needed to make informed hiri…</description>
-    </item>
-    <item>
-      <title>PostgreSQL 19 Released</title>
-      <link>https://simonwillison.net/2026/Nov/19/postgresql-19/</link>
-      <guid isPermaLink="false">f6690ad8f95f</guid>
-      <pubDate>Thu, 19 Nov 2026 20:43:57 GMT</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>研究与工程</category>
-      <description>PostgreSQL 19 Released Most years PostgreSQL ships a new release in September, but this year's release came two months later thanks mainly to the flurry of issues that the PostgreSQL team needed to address as part of the ongoing AI-reported…</description>
-    </item>
-    <item>
-      <title>Amazon Bedrock AgentCore harness adds Strands harness defaults, built-in tools, and lifecycle hooks</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-adds-strands-harness-defaults-built-in-tools-and-lifecycle-hooks/</link>
-      <guid isPermaLink="false">f7d26d8e976a</guid>
-      <pubDate>Thu, 19 Nov 2026 20:01:06 GMT</pubDate>
-      <dc:creator>AWS Machine Learning</dc:creator>
-      <category>研究与工程</category>
-      <description>Amazon Bedrock AgentCore harness now runs on the open-source Strands harness, bringing a recommended model, task-oriented defaults, automatic prompt caching, proactive context management, and new built-in tools.</description>
     </item>
   </channel>
 </rss>
