@@ -6,13 +6,22 @@
     <atom:link href="https://www.kyhsexport.com/ai-news/rss.xml" rel="self" type="application/rss+xml" />
     <description>聚合 22 个 AI 一手信息源（官方博客 / 研究机构 / 科技媒体）的最新动态，每日更新。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 27 Nov 2026 01:12:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 01:20:52 GMT</lastBuildDate>
     <generator>KYHS AI Hub</generator>
+    <item>
+      <title>datasette-charts 0.4a0</title>
+      <link>https://simonwillison.net/2026/Nov/27/datasette-charts/</link>
+      <guid isPermaLink="false">eb332dd8bb74</guid>
+      <pubDate>Fri, 27 Nov 2026 23:57:17 GMT</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>研究与工程</category>
+      <description>Release: datasette-charts 0.4a0 The new datasette-charts plugin has its own plugin hook to allow other plugins to define new chart types, but I hadn't actually used it for anything yet.</description>
+    </item>
     <item>
       <title>Ai2 and Google collaborate on a new generation of climate models</title>
       <link>https://allenai.org/blog/google-climate-partnership</link>
       <guid isPermaLink="false">351d6ecc8892</guid>
-      <pubDate>Thu, 26 Nov 2026 23:12:46 GMT</pubDate>
+      <pubDate>Fri, 27 Nov 2026 23:20:52 GMT</pubDate>
       <dc:creator>Ai2 (Allen Institute for AI)</dc:creator>
       <category>官方动态</category>
       <description>With funding from Google.org and technical support from Google Research, Ai2 is developing NeuralGCM+, an…</description>
@@ -21,7 +30,7 @@
       <title>ToyBlocks: A controlled world for robot learning and evaluation</title>
       <link>https://allenai.org/blog/toyblocks</link>
       <guid isPermaLink="false">a96de56669d5</guid>
-      <pubDate>Thu, 26 Nov 2026 23:12:46 GMT</pubDate>
+      <pubDate>Fri, 27 Nov 2026 23:20:52 GMT</pubDate>
       <dc:creator>Ai2 (Allen Institute for AI)</dc:creator>
       <category>官方动态</category>
       <description>ToyBlocks is an open simulation framework for studying robot learning through automated task generation, training…</description>
@@ -30,7 +39,7 @@
       <title>Ai2 and Taylor Geospatial partner to make geospatial AI easier to compare, run, and build on</title>
       <link>https://allenai.org/blog/taylor-geospatial-partnership</link>
       <guid isPermaLink="false">c87435f4344d</guid>
-      <pubDate>Thu, 26 Nov 2026 23:12:46 GMT</pubDate>
+      <pubDate>Fri, 27 Nov 2026 23:20:52 GMT</pubDate>
       <dc:creator>Ai2 (Allen Institute for AI)</dc:creator>
       <category>官方动态</category>
       <description>Ai2 and Taylor Geospatial are partnering to make geospatial AI more accessible and useful for the public good…</description>
@@ -39,10 +48,46 @@
       <title>Theorizer comes to Asta</title>
       <link>https://allenai.org/blog/theorizer-in-asta</link>
       <guid isPermaLink="false">b933a64b16c6</guid>
-      <pubDate>Thu, 26 Nov 2026 23:12:46 GMT</pubDate>
+      <pubDate>Fri, 27 Nov 2026 23:20:52 GMT</pubDate>
       <dc:creator>Ai2 (Allen Institute for AI)</dc:creator>
       <category>官方动态</category>
       <description>Theorizer in Asta connects scientific literature to proposed explanations that researchers can examine and test.</description>
+    </item>
+    <item>
+      <title>nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in</title>
+      <link>https://www.marktechpost.com/2026/11/26/nexos-ai-ai-gateway-200-models-governance/</link>
+      <guid isPermaLink="false">391b7719126c</guid>
+      <pubDate>Fri, 27 Nov 2026 03:43:35 GMT</pubDate>
+      <dc:creator>MarkTechPost</dc:creator>
+      <category>媒体资讯</category>
+      <description>nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in The post nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in appea…</description>
+    </item>
+    <item>
+      <title>Tencent Open-Sources DFly2: Speculative Decoding That Reuses the Target’s Sparse KV Cache</title>
+      <link>https://www.marktechpost.com/2026/11/26/tencent-dfly2-speculative-decoding-sparse-models/</link>
+      <guid isPermaLink="false">8e1bcd632cd1</guid>
+      <pubDate>Fri, 27 Nov 2026 03:31:30 GMT</pubDate>
+      <dc:creator>MarkTechPost</dc:creator>
+      <category>媒体资讯</category>
+      <description>Tencent open-sourced DFly2, a speculative decoding drafter for sparse-attention LLMs. Each draft layer reuses the target's KV cache and top-k indexer picks, adding no draft KV memory and lifting 64K serving throughput by up to 81%.</description>
+    </item>
+    <item>
+      <title>datasette-mcp 0.4</title>
+      <link>https://simonwillison.net/2026/Nov/27/datasette-mcp/</link>
+      <guid isPermaLink="false">bb01f663f1fe</guid>
+      <pubDate>Fri, 27 Nov 2026 00:26:17 GMT</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>研究与工程</category>
+      <description>Release: datasette-mcp 0.4 Fixed for compatibility with Datasette 1.0a44 . Tags: model-context-protocol , datasette</description>
+    </item>
+    <item>
+      <title>OpenAI cost controls 💰, measuring RSI 📈, looped transformers ➰</title>
+      <link>https://tldr.tech/ai/2026-11-27</link>
+      <guid isPermaLink="false">af5d81e95761</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+      <dc:creator>TLDR AI</dc:creator>
+      <category>媒体资讯</category>
+      <description>OpenAI cost controls 💰, measuring RSI 📈, looped transformers ➰</description>
     </item>
     <item>
       <title>Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano</title>
@@ -79,15 +124,6 @@
       <dc:creator>Simon Willison</dc:creator>
       <category>研究与工程</category>
       <description>Among the many already existing effects of AI has been a great de-individualization. I open a YouTube video, and I hear Claude. I sit in a conference presentation, and I hear Claude.</description>
-    </item>
-    <item>
-      <title>Jensen Huang deepfakes are the hot new AI slop</title>
-      <link>https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes</link>
-      <guid isPermaLink="false">5691a02d68d9</guid>
-      <pubDate>Thu, 26 Nov 2026 12:29:18 GMT</pubDate>
-      <dc:creator>The Verge AI</dc:creator>
-      <category>媒体资讯</category>
-      <description>Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket.</description>
     </item>
     <item>
       <title>42 state AGs are trying to stop Character.AI from selling users’ chats</title>
@@ -151,6 +187,15 @@
       <dc:creator>The Verge AI</dc:creator>
       <category>媒体资讯</category>
       <description>Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users.</description>
+    </item>
+    <item>
+      <title>Android’s DIY widgets are a bit of vibe-coding fun</title>
+      <link>https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini</link>
+      <guid isPermaLink="false">374f116a5b61</guid>
+      <pubDate>Wed, 25 Nov 2026 21:43:14 GMT</pubDate>
+      <dc:creator>The Verge AI</dc:creator>
+      <category>媒体资讯</category>
+      <description>Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house.</description>
     </item>
     <item>
       <title>OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work</title>
@@ -648,15 +693,6 @@
       <description>Architect Labs introduced Frostbite, an AI-designed CPU that runs interaction nets in hardware. Agents took it from theory to 7 nm GDS, and pre-silicon tests show 4.59x performance per watt over an in-order core.</description>
     </item>
     <item>
-      <title>Meta TLX Brings Warp-Group GPU Control to Triton on Hopper, Blackwell, AMD</title>
-      <link>https://www.marktechpost.com/2026/11/23/meta-tlx-triton-low-level-extensions/</link>
-      <guid isPermaLink="false">605ed13bdb5a</guid>
-      <pubDate>Mon, 23 Nov 2026 08:24:57 GMT</pubDate>
-      <dc:creator>MarkTechPost</dc:creator>
-      <category>媒体资讯</category>
-      <description>Meta has detailed TLX, its Triton Low-Level Extensions that add warp-group, barrier, TMA and cluster control to Python Triton kernels. It runs Meta's ads and LLM workloads on Hopper, Blackwell and AMD MI350 GPUs.</description>
-    </item>
-    <item>
       <title>Connected intelligence for in-house legal</title>
       <link>https://openai.com/business/learn/connected-intelligence-for-in-house-legal</link>
       <guid isPermaLink="false">4f623ec0c348</guid>
@@ -700,15 +736,6 @@
       <dc:creator>Simon Willison</dc:creator>
       <category>研究与工程</category>
       <description>Tool: Select Styling Specimens I got frustrated at how HTML &lt;select&gt; boxes default to looking different in different browsers, and are (I think) quite ugly in Chrome: So I had Claude Fable 5.2 build me this page showing all of the ways they…</description>
-    </item>
-    <item>
-      <title>NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor</title>
-      <link>https://www.marktechpost.com/2026/11/22/nvidia-alpamayo-2-edge-2b-reasoning-vla-drive-thor/</link>
-      <guid isPermaLink="false">47e30caa4cf6</guid>
-      <pubDate>Sun, 22 Nov 2026 18:37:57 GMT</pubDate>
-      <dc:creator>MarkTechPost</dc:creator>
-      <category>媒体资讯</category>
-      <description>NVIDIA released Alpamayo 2 Edge, a 2B-class reasoning vision-language-action model that plans driving trajectories and explains them on DRIVE AGX Thor, at 160 to 190 ms pixel-to-trajectory latency.</description>
     </item>
     <item>
       <title>Meta ads is now available in AWS Quick</title>
@@ -846,15 +873,6 @@
       <description>Release: llm-gemini 0.38.1 Gemini 4 Carbon only supports low , medium and high reasoning levels - but Gemini 4 Hydrogen and Gemini 4 Neon both have an extra xhigh level.</description>
     </item>
     <item>
-      <title>Token fraud is here and it’s BAD (YouTube)</title>
-      <link>https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/</link>
-      <guid isPermaLink="false">8c29b105c4ab</guid>
-      <pubDate>Fri, 20 Nov 2026 02:49:57 GMT</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>研究与工程</category>
-      <description>Token fraud is here and it’s BAD (YouTube) Claire Vo runs ChatPRD , an AI platform that helps product managers &quot;turn an idea into a spec&quot;. The product has been live since the GPT-4 era, and Claire has been building it in public for much of…</description>
-    </item>
-    <item>
       <title>Amazon SageMaker Inference: 2026 launches in review, part 2</title>
       <link>https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2/</link>
       <guid isPermaLink="false">b23586a707c7</guid>
@@ -889,24 +907,6 @@
       <dc:creator>OpenAI</dc:creator>
       <category>官方动态</category>
       <description>MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.</description>
-    </item>
-    <item>
-      <title>Gemini tool retrieval 🔧, Stripe evals methods 👨‍💻, agent swarms 🐝</title>
-      <link>https://tldr.tech/ai/2026-11-20</link>
-      <guid isPermaLink="false">4e87c30017c2</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
-      <dc:creator>TLDR AI</dc:creator>
-      <category>媒体资讯</category>
-      <description>Gemini tool retrieval 🔧, Stripe evals methods 👨‍💻, agent swarms 🐝</description>
-    </item>
-    <item>
-      <title>Enable AI agents to pay for AWS Marketplace x402 products with Amazon Bedrock AgentCore payments</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments/</link>
-      <guid isPermaLink="false">e0e1c278b4c8</guid>
-      <pubDate>Thu, 19 Nov 2026 23:02:16 GMT</pubDate>
-      <dc:creator>AWS Machine Learning</dc:creator>
-      <category>研究与工程</category>
-      <description>Amazon Bedrock AgentCore payments now supports AWS Marketplace, so agents can discover and buy x402-enabled products, APIs, data, and content and pay in USD on the developer's AWS bill, with no stablecoin wallets or API keys.</description>
     </item>
   </channel>
 </rss>
