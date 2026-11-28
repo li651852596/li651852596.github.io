@@ -6,22 +6,22 @@
     <atom:link href="https://www.kyhsexport.com/ai-news/rss.xml" rel="self" type="application/rss+xml" />
     <description>聚合 22 个 AI 一手信息源（官方博客 / 研究机构 / 科技媒体）的最新动态，每日更新。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 28 Nov 2026 01:20:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 14:27:22 GMT</lastBuildDate>
     <generator>KYHS AI Hub</generator>
     <item>
-      <title>datasette-charts 0.4a0</title>
-      <link>https://simonwillison.net/2026/Nov/27/datasette-charts/</link>
-      <guid isPermaLink="false">eb332dd8bb74</guid>
-      <pubDate>Fri, 27 Nov 2026 23:57:17 GMT</pubDate>
-      <dc:creator>Simon Willison</dc:creator>
-      <category>研究与工程</category>
-      <description>Release: datasette-charts 0.4a0 The new datasette-charts plugin has its own plugin hook to allow other plugins to define new chart types, but I hadn't actually used it for anything yet.</description>
+      <title>Sakana AI’s CEO says its homegrown models are about more than Japan’s national security</title>
+      <link>https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/</link>
+      <guid isPermaLink="false">e5731a321136</guid>
+      <pubDate>Sat, 28 Nov 2026 14:00:00 GMT</pubDate>
+      <dc:creator>TechCrunch AI</dc:creator>
+      <category>媒体资讯</category>
+      <description>Sakana AI aims to strengthen Japan’s industrial competitiveness with homegrown AI models.</description>
     </item>
     <item>
       <title>Ai2 and Google collaborate on a new generation of climate models</title>
       <link>https://allenai.org/blog/google-climate-partnership</link>
       <guid isPermaLink="false">351d6ecc8892</guid>
-      <pubDate>Fri, 27 Nov 2026 23:20:52 GMT</pubDate>
+      <pubDate>Sat, 28 Nov 2026 12:27:22 GMT</pubDate>
       <dc:creator>Ai2 (Allen Institute for AI)</dc:creator>
       <category>官方动态</category>
       <description>With funding from Google.org and technical support from Google Research, Ai2 is developing NeuralGCM+, an…</description>
@@ -30,7 +30,7 @@
       <title>ToyBlocks: A controlled world for robot learning and evaluation</title>
       <link>https://allenai.org/blog/toyblocks</link>
       <guid isPermaLink="false">a96de56669d5</guid>
-      <pubDate>Fri, 27 Nov 2026 23:20:52 GMT</pubDate>
+      <pubDate>Sat, 28 Nov 2026 12:27:22 GMT</pubDate>
       <dc:creator>Ai2 (Allen Institute for AI)</dc:creator>
       <category>官方动态</category>
       <description>ToyBlocks is an open simulation framework for studying robot learning through automated task generation, training…</description>
@@ -39,7 +39,7 @@
       <title>Ai2 and Taylor Geospatial partner to make geospatial AI easier to compare, run, and build on</title>
       <link>https://allenai.org/blog/taylor-geospatial-partnership</link>
       <guid isPermaLink="false">c87435f4344d</guid>
-      <pubDate>Fri, 27 Nov 2026 23:20:52 GMT</pubDate>
+      <pubDate>Sat, 28 Nov 2026 12:27:22 GMT</pubDate>
       <dc:creator>Ai2 (Allen Institute for AI)</dc:creator>
       <category>官方动态</category>
       <description>Ai2 and Taylor Geospatial are partnering to make geospatial AI more accessible and useful for the public good…</description>
@@ -48,10 +48,28 @@
       <title>Theorizer comes to Asta</title>
       <link>https://allenai.org/blog/theorizer-in-asta</link>
       <guid isPermaLink="false">b933a64b16c6</guid>
-      <pubDate>Fri, 27 Nov 2026 23:20:52 GMT</pubDate>
+      <pubDate>Sat, 28 Nov 2026 12:27:22 GMT</pubDate>
       <dc:creator>Ai2 (Allen Institute for AI)</dc:creator>
       <category>官方动态</category>
       <description>Theorizer in Asta connects scientific literature to proposed explanations that researchers can examine and test.</description>
+    </item>
+    <item>
+      <title>Ant Group Releases LingSante-3.1-flash: An Open-Weight MoE Model with 560B Total Parameters and 25B Activations per Token</title>
+      <link>https://www.marktechpost.com/2026/11/28/ant-group-lingsante-3-1-flash-open-source-medical-ai/</link>
+      <guid isPermaLink="false">c97645a0138e</guid>
+      <pubDate>Sat, 28 Nov 2026 09:45:33 GMT</pubDate>
+      <dc:creator>MarkTechPost</dc:creator>
+      <category>媒体资讯</category>
+      <description>Ant Group's Afu team open-sourced LingSante-3.1-flash, a 560B-parameter MoE medical AI model with 25B active parameters, a 1M-token context and an MIT license. It ranks first among open models on InclusionMed.</description>
+    </item>
+    <item>
+      <title>datasette-charts 0.4a0</title>
+      <link>https://simonwillison.net/2026/Nov/27/datasette-charts/</link>
+      <guid isPermaLink="false">eb332dd8bb74</guid>
+      <pubDate>Fri, 27 Nov 2026 23:57:17 GMT</pubDate>
+      <dc:creator>Simon Willison</dc:creator>
+      <category>研究与工程</category>
+      <description>Release: datasette-charts 0.4a0 The new datasette-charts plugin has its own plugin hook to allow other plugins to define new chart types, but I hadn't actually used it for anything yet.</description>
     </item>
     <item>
       <title>nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in</title>
@@ -459,15 +477,6 @@
       <description>Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert…</description>
     </item>
     <item>
-      <title>Meta brings its Muse AI assistant directly into Instagram DMs</title>
-      <link>https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/</link>
-      <guid isPermaLink="false">563f25d4bb12</guid>
-      <pubDate>Tue, 24 Nov 2026 17:00:00 GMT</pubDate>
-      <dc:creator>TechCrunch AI</dc:creator>
-      <category>媒体资讯</category>
-      <description>The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.</description>
-    </item>
-    <item>
       <title>GPT 6.2 Astra Solves a Historical Mystery</title>
       <link>https://simonwillison.net/2026/Nov/24/astra-historical-mystery/</link>
       <guid isPermaLink="false">e5c4a02f15cb</guid>
@@ -682,15 +691,6 @@
       <dc:creator>MarkTechPost</dc:creator>
       <category>媒体资讯</category>
       <description>AI now sits on both sides of the security fight, and the vocabulary has changed with it. IBM&amp;#8217;s 2026 Cost of a Data Breach Report found that 1 in 4 malicious breaches were AI-enabled, up 56% year over year.</description>
-    </item>
-    <item>
-      <title>Architect Labs Unveils Frostbite, an Interaction Net CPU Designed by AI</title>
-      <link>https://www.marktechpost.com/2026/11/23/architect-labs-frostbite-ai-designed-cpu-interaction-nets/</link>
-      <guid isPermaLink="false">fe2c88028e24</guid>
-      <pubDate>Mon, 23 Nov 2026 10:05:47 GMT</pubDate>
-      <dc:creator>MarkTechPost</dc:creator>
-      <category>媒体资讯</category>
-      <description>Architect Labs introduced Frostbite, an AI-designed CPU that runs interaction nets in hardware. Agents took it from theory to 7 nm GDS, and pre-silicon tests show 4.59x performance per watt over an in-order core.</description>
     </item>
     <item>
       <title>Connected intelligence for in-house legal</title>
